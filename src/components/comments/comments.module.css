@@ -1,0 +1,20 @@
+.commentsContainer {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .comment {
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .commentMeta {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    font-size: 0.9em;
+    color: #555;
+  }
+  

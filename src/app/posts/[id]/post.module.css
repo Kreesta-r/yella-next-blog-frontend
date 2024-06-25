@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .col1 {
+    flex: 3;
+    margin-right: 20px;
+  }
+  
+  .col2 {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .content {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .image {
+    width: 100%;
+    height: auto;
+    margin: 20px 0;
+  }
+  
+  .meta {
+    font-size: 0.9em;
+    color: #888;
+    margin-top: 10px;
+  }
+  
+  .comments {
+    margin-top: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  

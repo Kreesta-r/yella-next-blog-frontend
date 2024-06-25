@@ -1,0 +1,28 @@
+/* sidebar.module.css or post.module.css */
+
+.sidebar {
+    padding: 20px;
+    width: 100%;
+  }
+  
+  .sidebar h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  
+  .postList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  
+  .sidebar a {
+    text-decoration: none;
+    color: #b1aeae;
+    transition: color 0.3s ease;
+  }
+  
+  .sidebar a:hover {
+    color: orange;
+  }
+  
